@@ -1,0 +1,12 @@
+
+
+i{
+color: black;
+}
+
+li:hover{
+    background-color: grey;
+}
+li:active{
+    background-color: black;
+}
